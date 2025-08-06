@@ -1,10 +1,11 @@
 {
-   "name": "PPT Saver 课堂派PPT下载",
+   "name": "__MSG_extensionName__",
    "version": "1.0",
    "manifest_version": 3,
-   "description": "课堂派PPT一键下载为PDF，学习资料轻松保存！",
+   "description": "__MSG_extensionDescription__",
+   "default_locale": "zh_CN",
    "action": {
-      "default_title": "PPT Saver",
+      "default_title": "__MSG_actionTitle__",
       "default_icon": {
          "16": "icons/icon16.png",
          "32": "icons/icon32.png",

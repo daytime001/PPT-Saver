@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "PPT Saver 课堂派PPT下载",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "课堂派PPT一键下载为PDF，学习资料轻松保存！",
+    "description": "Extension description"
+  },
+  "actionTitle": {
+    "message": "PPT Saver",
+    "description": "Action button title"
+  }
+}

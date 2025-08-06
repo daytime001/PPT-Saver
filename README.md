@@ -18,9 +18,9 @@
 
 安装插件前后的对比：
 
-| 安装前                                                       | 安装后                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![安装前](https://daytime001-picturebed.oss-cn-nanjing.aliyuncs.com/typora/20250806104602.png) | ![安装后](https://daytime001-picturebed.oss-cn-nanjing.aliyuncs.com/typora/20250806130835.png) |
+| 安装前 | 安装后 |
+|--------|--------|
+| ![安装前](https://daytime001-picturebed.oss-cn-nanjing.aliyuncs.com/typora/20250806104602.png) | ![安装后](https://user-images.githubusercontent.com/33508232/138049173-56c32f48-f1df-4bbb-a11d-d7ce4578acaa.png) |
 
 ## 安装方法
 
